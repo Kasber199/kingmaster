@@ -1,1 +1,2 @@
-# kingmaster
+# Probot ✨
+Epic Discord Bot
